@@ -35,7 +35,6 @@ pattern IF condition DO action
  - Script mode and command mode
 
 # Feature Roadmap
-## POC 2
  - Help menu
  - Better cui support
 
